@@ -22,7 +22,9 @@ namespace Treino_Botanica
             Console.WriteLine("3 - Deletar Item");
             Console.WriteLine("5 - Ver Itens");
             Console.WriteLine("7 - Sair");
-            Console.WriteLine();
+            Console.WriteLine(); 
+            Console.WriteLine(); 
+            Console.WriteLine(); 
         }
 
         public void ReceberInput()
