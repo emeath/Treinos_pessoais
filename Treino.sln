@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treino_Botanica", "Treino\Treino_Botanica.csproj", "{6E25B4F1-81BF-434F-B4BD-7210990D4DA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treino_Botanica", "Treino\Treino_Botanica.csproj", "{6E25B4F1-81BF-434F-B4BD-7210990D4DA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treino_Carro", "Carro\Treino_Carro.csproj", "{8794B790-91D5-4865-B899-0783D1202A42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treino_Carro", "Carro\Treino_Carro.csproj", "{8794B790-91D5-4865-B899-0783D1202A42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treino_Perfil", "Treino_perfil\Treino_Perfil.csproj", "{4771D547-2853-4245-91ED-B41439DB1706}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8794B790-91D5-4865-B899-0783D1202A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8794B790-91D5-4865-B899-0783D1202A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8794B790-91D5-4865-B899-0783D1202A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4771D547-2853-4245-91ED-B41439DB1706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4771D547-2853-4245-91ED-B41439DB1706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4771D547-2853-4245-91ED-B41439DB1706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4771D547-2853-4245-91ED-B41439DB1706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
